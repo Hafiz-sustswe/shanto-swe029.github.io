@@ -16,6 +16,8 @@
         - Algebraic Expression
         - Brain Teaser
         - Discrete Mathematics
+            - Boolean Algebra
+            - Graph Theory
     - Programming Languages
         - C
         - C++
