@@ -1,9 +1,9 @@
-[`return to Home Page'](shanto-swe029.github.io)
+[`return to Home Page'](https://shanto-swe029.github.io)
 
 # About
 ## Studies
 - Studying SOFTWARE ENGINEERING at [Shahjalal University of Science and Technology, Sylhet](sust.edu).
-- Graduated from [Notre Dame College, Dhaka](notredamecollege-dhaka.com), in 2019.
+- Graduated from [Notre Dame College, Dhaka](https://notredamecollege-dhaka.com), in 2019.
 - Studied in [Rajuk Uttara model College, Dhaka](rajukcollege.net), from 2012 to 2017.
 ## Club Involvements
 - [Notre Dame Math Club](https://facebook.com/official.ndmc)
