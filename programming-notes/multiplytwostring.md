@@ -2,7 +2,7 @@
 ## Code With Explanation
 
 ***
-```
+```cpp
     In this code, we'll see how we can multiply two string of the same size.
         This is necessary because we cannot multiply and get a product if
         the product becomes larger than 10^19 ( = 10000000000000000000 ).
@@ -15,7 +15,7 @@
          But we don't need more that 2*x indexes to store the product in a string..
 ```
 ### Hint:
-```
+```cpp
             Suppose, we wanna multiply 345 with 129.
             so, char s1[] = "345"    ,     s2[] = "129";
             and, char result[6] = "000000";
@@ -35,20 +35,26 @@
         Please, move to the main function first.
 ```
 
-```
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
+```
 
+```cpp
 void multiply(string s, char ch, string &temporary)
 {
     temporary.clear();              // this line is necessary
     temporary.assign(2 * s.size(), '0');
+```
 
+```cpp
     /*
         why we are reusing the assign() function here to set the values to 0
         will be discussed in the main function.
     */
+```
 
+```cpp
     int i, j;
     int n = s.size();
     int m = temporary.size();
@@ -57,17 +63,27 @@ void multiply(string s, char ch, string &temporary)
         product = (s[i] - '0') * (ch - '0') + carry;
         carry = product / 10;
         temporary[j] = product % 10 + '0';
+```
+
+```cpp
         /*
             please read the explanation below this function
             if you do not understand previous three lines.
-                Line number - 77
         */
+```
+
+```cpp
     }
+```
+
+```cpp
     temporary[j] = carry + '0'; /* This line is necessary because there might be a carry
                                 remaining after the last step.
                             */
 }
+```
 
+```cpp
 /*
     Explanation:
             Let's first see an example. If you write this code in
@@ -109,40 +125,59 @@ void multiply(string s, char ch, string &temporary)
             in the string, then the string will store the character whose ASCII
             value is 7 and obviously will not store '7'.
 */
+```
 
-
+```cpp
 int main()
 {
+```
+
+```cpp
     /* we are not using character data_type, but string data_type.
        Because, string data_type allows us to add extra elements
        after the last position.
        But we can also use character data_type and handle the case
        of adding 0s in another way. I'll show it in another code.
     */
+```
 
+```cpp
     string str1;
     string str2;
+```
 
+```cpp
     /*
         you can take the two string as input or you can manually assign them.
         Here, I'll manually assign them. In another code, I'll take them as input.
     */
+```
 
+```cpp
     str1 = "8496";
     str2 = "6204";
+```
 
+```cpp
     /*
             just remove the previous two lines and
             use this line below to take input.
                 cin >> str1 >> str2;
     */
-    int n = str1.size(); // you can also write " n = str2.size() "
+```
 
+```cpp
+    int n = str1.size(); // you can also write " n = str2.size() "
+```
+
+```cpp
     /*
         Now we will declare our result string and set all of the elements to zero.
         Besides we will also declare a temporary array of the same size as our result array.
     */
+```
 
+```cpp
     string result;
     string temp;
     int i;
@@ -150,7 +185,9 @@ int main()
     for(i = 0; i < 2 * n; i++) {
         result.push_back('0');      // please note that 0 is stored as a character
     }
+```
 
+```cpp
     /*
         if you do not like the idea of using loop,
         you can also use std::assign() function to
@@ -159,9 +196,13 @@ int main()
         you learn about it.
         we are assigning eight 0s to our temp string using std::assign().
     */
+```
 
+```cpp
     temp.assign(2 * n, '0'); // this is the format >> var_name.assign(number of index, value)
+```
 
+```cpp
     /*
         we will use std::assign() function again and again in our code.
         Now let's go to the main action.
@@ -174,14 +215,18 @@ int main()
         a function which will do the same work for us.
         Let's name it       >>      multiply();
     */
+```
 
+```cpp
     int j, step = 0;
 
     for(i = n - 1; i >= 0; i--) {
         multiply( str1, str2[i], temp );
+```
+
+```cpp
         /*
             now we write the function before our main function.
-            move to line number 41.
         */
         /*
             now our temp string is ready but there is another work to do.
@@ -195,20 +240,27 @@ int main()
                 in the 2nd step we have to add 2 0s
             This will help us think easily. We use the variable "step"
             to tract our step number. We will at  assign 0 in it and
-            increase its value by 1after each step.
+            increase its value by 1 after each step.
         */
+```
+
+```cpp
         for(j = 0; j < step; j++) {
             temp.push_back('0'); // we have to use push back here
         }
         step++;
+```
 
+```cpp
         /*
             Now we have to add this temp to our result string.
             We can do it by function or we can do it here.
             To use function, you have to use pointer as we used
             in our multiply() function to change our temp string.
         */
+```
 
+```cpp
         int carry = 0, x, k;
         for(j = result.size() - 1, k = temp.size() - 1; j >= 0; j--, k--) {
             x = (result[j] - '0') + (temp[k] - '0') + carry;
@@ -220,7 +272,9 @@ int main()
     }
 
     cout << str1 << " x " << str2 << " = " << result << endl;
+```
 
+```cpp
     /*
         You can also take str1 and str2 as input.
         just use cin >> str1 >> str2.
@@ -235,7 +289,9 @@ int main()
         Now this would be much better if you try to write a code which
         takes 12345 and 123 as input and multiply them using strings.
     */
+```
 
+```cpp
     return 0;
 }
 
