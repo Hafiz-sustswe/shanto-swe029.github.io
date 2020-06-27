@@ -1,3 +1,5 @@
+![My Photo](https://shanto-swe029.github.io/shanto.jpg)<br/>
+***
 # About
 - Studies
     - Studying SOFTWARE ENGINEERING at [Shahjalal University of Science and Technology, Sylhet](sust.edu).
@@ -36,8 +38,7 @@
             - [My Instragram Profile](https://www.instagram.com/____s___h___a___n___t___o____/)
         - Github
             - [My Github Profile](https://github.com/shanto-swe029)
-            - My Github Organization
-                - [Define Coder](https://github.com/definecoder)
+            - My Github Organization - [Define Coder](https://github.com/definecoder)
 - Personal Information
     - Date of Birth
         - 26 July, 1999
@@ -70,11 +71,6 @@
     - Guitar
     - Reading Books
     - Teaching and Sharing Knowledge
-
-
-***
-
-![My Photo](https://shanto-swe029.github.io/shanto.jpg)<br/>
 
 ***
 
