@@ -75,9 +75,9 @@ void multiply(string s, char ch, string &temporary)
 ```
 
 ```cpp
-    temporary[j] = carry + '0'; /* This line is necessary because there might be a carry
-                                remaining after the last step.
-                            */
+    temporary[j] = carry + '0'; /* This line is necessary because there might be a
+                                   carry remaining after the last step.
+                                */
 }
 ```
 
@@ -162,8 +162,8 @@ int main()
 ```
 
 ```
-        Now we will declare our result string and set all of the elements to zero.
-        Besides we will also declare a temporary array of the same size as our result array.
+Now we will declare our result string and set all of the elements to zero.
+Besides we will also declare a temporary array of the same size as our result array.
 ```
 
 ```cpp
