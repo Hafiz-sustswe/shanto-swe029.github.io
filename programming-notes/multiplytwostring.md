@@ -4,7 +4,7 @@
 ***
 
 
-    In this code, we'll see how we can multiply two string of the same size.
+In this code, we'll see how we can multiply two string of the same size.
         This is necessary because we cannot multiply and get a product if
         the product becomes larger than 10^19 ( = 10000000000000000000 ).
         Using this method we can get a product whose value is up to 10^(4294967295).
