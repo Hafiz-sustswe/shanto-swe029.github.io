@@ -48,11 +48,9 @@ void multiply(string s, char ch, string &temporary)
 ```
 
 ```cpp
-    /*
         why we are reusing the assign() function here to set the values to 0
         will be discussed in the main function.
-    */
-```
+ ```
 
 ```cpp
     int i, j;
@@ -66,10 +64,8 @@ void multiply(string s, char ch, string &temporary)
 ```
 
 ```cpp
-        /*
             please read the explanation below this function
             if you do not understand previous three lines.
-        */
 ```
 
 ```cpp
@@ -84,7 +80,6 @@ void multiply(string s, char ch, string &temporary)
 ```
 
 ```cpp
-/*
     Explanation:
             Let's first see an example. If you write this code in
             the main function and run, what will be the output?
@@ -124,7 +119,6 @@ void multiply(string s, char ch, string &temporary)
             that the product is 7. If we do not add '0' with it and store it
             in the string, then the string will store the character whose ASCII
             value is 7 and obviously will not store '7'.
-*/
 ```
 
 ```cpp
@@ -132,13 +126,11 @@ int main()
 {
 ```
 
-```cpp
-    /* we are not using character data_type, but string data_type.
+```cpp we are not using character data_type, but string data_type.
        Because, string data_type allows us to add extra elements
        after the last position.
        But we can also use character data_type and handle the case
        of adding 0s in another way. I'll show it in another code.
-    */
 ```
 
 ```cpp
@@ -147,10 +139,8 @@ int main()
 ```
 
 ```cpp
-    /*
         you can take the two string as input or you can manually assign them.
         Here, I'll manually assign them. In another code, I'll take them as input.
-    */
 ```
 
 ```cpp
@@ -159,11 +149,9 @@ int main()
 ```
 
 ```cpp
-    /*
             just remove the previous two lines and
             use this line below to take input.
                 cin >> str1 >> str2;
-    */
 ```
 
 ```cpp
@@ -171,10 +159,8 @@ int main()
 ```
 
 ```cpp
-    /*
         Now we will declare our result string and set all of the elements to zero.
         Besides we will also declare a temporary array of the same size as our result array.
-    */
 ```
 
 ```cpp
@@ -188,14 +174,12 @@ int main()
 ```
 
 ```cpp
-    /*
         if you do not like the idea of using loop,
         you can also use std::assign() function to
         do the same task for you.
         But I suggest that before you use std::assign(),
         you learn about it.
         we are assigning eight 0s to our temp string using std::assign().
-    */
 ```
 
 ```cpp
@@ -203,18 +187,14 @@ int main()
 ```
 
 ```cpp
-    /*
         we will use std::assign() function again and again in our code.
         Now let's go to the main action.
-    */
 
-    /*
         we will use several function to keep our main function understandable.
         As you see we have to multiply our first string with all of the elements
         of our second string one by one and build our temp string, we'll create
         a function which will do the same work for us.
         Let's name it       >>      multiply();
-    */
 ```
 
 ```cpp
@@ -225,10 +205,8 @@ int main()
 ```
 
 ```cpp
-        /*
             now we write the function before our main function.
-        */
-        /*
+
             now our temp string is ready but there is another work to do.
             we have to include the 0s after the temp string.
                 in the 1st sept we have to add 0 0s
@@ -241,7 +219,6 @@ int main()
             This will help us think easily. We use the variable "step"
             to tract our step number. We will at  assign 0 in it and
             increase its value by 1 after each step.
-        */
 ```
 
 ```cpp
@@ -252,12 +229,10 @@ int main()
 ```
 
 ```cpp
-        /*
             Now we have to add this temp to our result string.
             We can do it by function or we can do it here.
             To use function, you have to use pointer as we used
             in our multiply() function to change our temp string.
-        */
 ```
 
 ```cpp
@@ -275,7 +250,6 @@ int main()
 ```
 
 ```cpp
-    /*
         You can also take str1 and str2 as input.
         just use cin >> str1 >> str2.
         Remember that, here the two number must have equal number of digits.
@@ -288,7 +262,6 @@ int main()
                 you can use insert() function to do this.
         Now this would be much better if you try to write a code which
         takes 12345 and 123 as input and multiply them using strings.
-    */
 ```
 
 ```cpp
