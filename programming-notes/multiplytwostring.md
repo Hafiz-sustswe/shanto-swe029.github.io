@@ -2,7 +2,7 @@
 ## Code With Explanation
 
 ***
-```cpp
+```
     In this code, we'll see how we can multiply two string of the same size.
         This is necessary because we cannot multiply and get a product if
         the product becomes larger than 10^19 ( = 10000000000000000000 ).
@@ -15,7 +15,7 @@
          But we don't need more that 2*x indexes to store the product in a string..
 ```
 ### Hint:
-```cpp
+```
             Suppose, we wanna multiply 345 with 129.
             so, char s1[] = "345"    ,     s2[] = "129";
             and, char result[6] = "000000";
@@ -47,7 +47,7 @@ void multiply(string s, char ch, string &temporary)
     temporary.assign(2 * s.size(), '0');
 ```
 
-```cpp
+```
         why we are reusing the assign() function here to set the values to 0
         will be discussed in the main function.
  ```
@@ -63,7 +63,7 @@ void multiply(string s, char ch, string &temporary)
         temporary[j] = product % 10 + '0';
 ```
 
-```cpp
+```
             please read the explanation below this function
             if you do not understand previous three lines.
 ```
@@ -79,7 +79,7 @@ void multiply(string s, char ch, string &temporary)
 }
 ```
 
-```cpp
+```
     Explanation:
             Let's first see an example. If you write this code in
             the main function and run, what will be the output?
@@ -126,7 +126,7 @@ int main()
 {
 ```
 
-```cpp 
+``` 
        we are not using character data_type, but string data_type.
        Because, string data_type allows us to add extra elements
        after the last position.
@@ -139,7 +139,7 @@ int main()
     string str2;
 ```
 
-```cpp
+```
         you can take the two string as input or you can manually assign them.
         Here, I'll manually assign them. In another code, I'll take them as input.
 ```
@@ -149,7 +149,7 @@ int main()
     str2 = "6204";
 ```
 
-```cpp
+```
             just remove the previous two lines and
             use this line below to take input.
                 cin >> str1 >> str2;
@@ -159,7 +159,7 @@ int main()
     int n = str1.size(); // you can also write " n = str2.size() "
 ```
 
-```cpp
+```
         Now we will declare our result string and set all of the elements to zero.
         Besides we will also declare a temporary array of the same size as our result array.
 ```
@@ -174,7 +174,7 @@ int main()
     }
 ```
 
-```cpp
+```
         if you do not like the idea of using loop,
         you can also use std::assign() function to
         do the same task for you.
@@ -187,7 +187,7 @@ int main()
     temp.assign(2 * n, '0'); // this is the format >> var_name.assign(number of index, value)
 ```
 
-```cpp
+```
         we will use std::assign() function again and again in our code.
         Now let's go to the main action.
 
@@ -205,7 +205,7 @@ int main()
         multiply( str1, str2[i], temp );
 ```
 
-```cpp
+```
             now we write the function before our main function.
 
             now our temp string is ready but there is another work to do.
@@ -229,7 +229,7 @@ int main()
         step++;
 ```
 
-```cpp
+```
             Now we have to add this temp to our result string.
             We can do it by function or we can do it here.
             To use function, you have to use pointer as we used
@@ -250,7 +250,7 @@ int main()
     cout << str1 << " x " << str2 << " = " << result << endl;
 ```
 
-```cpp
+```
         You can also take str1 and str2 as input.
         just use cin >> str1 >> str2.
         Remember that, here the two number must have equal number of digits.
