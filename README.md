@@ -1,6 +1,8 @@
+# Ariful Islam Shanto
+
 ![My Photo](https://shanto-swe029.github.io/shanto.jpg)<br/>
 ***
-# About
+## About
 - Studies
     - Studying SOFTWARE ENGINEERING at [Shahjalal University of Science and Technology, Sylhet](sust.edu).
     - Graduated from [Notre Dame College, Dhaka](notredamecollege-dhaka.com), in 2019.
