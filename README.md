@@ -2,7 +2,7 @@
 
 Here you can see my notes on differnt topics and hope you can be benifited from that.
 
-## [My Programming Note book](https://­codermehraj.github.io­/MehrajNotes/)
+## [My Programming Note book](https://definecoder.github.io)
 
 ***
 ![My Photo](https://shanto-swe029.github.io/shanto.jpg)<br/>
