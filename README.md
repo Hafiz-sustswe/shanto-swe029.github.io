@@ -5,7 +5,7 @@
 
 ***
 
-## [About](https://shanto-swe029.github.io/about/home)
+## [About](/about/home)
 
 ## Contact Info
 - [Facebook](https://facebook.com/shanto3585)
