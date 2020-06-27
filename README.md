@@ -1,12 +1,12 @@
 # About
 - Studies
-    - Studying SOFTWARE ENGINEERING at Shahjalal University of Science and Technology, Sylhet.
+    - Studying SOFTWARE ENGINEERING at [Shahjalal University of Science and Technology, Sylhet](sust.edu).
     - Graduated from Notre Dame College, Dhaka, in 2019.
     - Studied in Rajuk Uttara model College, Dhaka, from 2012 to 2017.
 - Club Involvements
-    - Notre Dame Math Club
+    - [Notre Dame Math Club](https://facebook.com/official.ndmc)
         - Member (2017-1029)
-    - Rajuk Math Circle
+    - [Rajuk Math Circle](https://facebook.com/rajukmathcircle)
         - President (2018-2019)
         - Member (2016-present)
 - Personal Interests
