@@ -46,11 +46,31 @@
         - Gazipur, Dhaka, Bangladesh
     - Current City
         - Sylhet City, Sylhet, Bangladesh.
-    
+- Hobby
+    - Music
+        - English
+            - Linkin Park
+            - Taylor Swift
+            - Ed Sheeran
+            - Christina Perry
+            - Alan Walker
+            - Ellie Glouding
+            - Justin Timberlake
+            - Gnash
+            - Charlie Puth
+            - Katy Perry
+            - Zayn
+            - Harry Styles
+            - Sia
+            - Major Lazer
+            - Mike Posner
+            - Hailee Steinfeld
+            - Calvin Harries
+            - Shawn Mendes
+    - Guitar
+    - Reading Books
+    - Teaching and Sharing Knowledge
 
-
-
-## [My Programming Note book](https://definecoder.github.io)
 
 ***
 
