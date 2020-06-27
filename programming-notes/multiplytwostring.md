@@ -3,6 +3,7 @@
 
 ***
 
+
     In this code, we'll see how we can multiply two string of the same size.
         This is necessary because we cannot multiply and get a product if
         the product becomes larger than 10^19 ( = 10000000000000000000 ).
@@ -13,6 +14,7 @@
          So, the the size is x,
          our product string must be of length 2*x.
          But we don't need more that 2*x indexes to store the product in a string..
+
 
 ### Hint:
 ```
