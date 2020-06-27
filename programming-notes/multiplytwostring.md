@@ -1,13 +1,8 @@
-# Code With Explanation
+# Multiply Two Number Using String
+## Code With Explanation
 
 ***
-
-```cpp class:{.lineNo}
-////BISMILLAGIR-RAHMANIR-RAHIM
-
-///                 Multiply Two Number Using String
-
-/*
+```
     In this code, we'll see how we can multiply two string of the same size.
         This is necessary because we cannot multiply and get a product if
         the product becomes larger than 10^19 ( = 10000000000000000000 ).
@@ -17,8 +12,10 @@
          our product string must be of length 6.
          So, the the size is x,
          our product string must be of length 2*x.
-         But we don't need more that 2*x indexes to store the product in a string.
-    Hint:
+         But we don't need more that 2*x indexes to store the product in a string..
+```
+### Hint:
+```
             Suppose, we wanna multiply 345 with 129.
             so, char s1[] = "345"    ,     s2[] = "129";
             and, char result[6] = "000000";
@@ -35,9 +32,10 @@
                        0s after the last elements and then we add it with our result string.
             Now you have enough instructions to write the code by yourself. First, I suggest that
             you try it by yourself. If you fail to code, then see my code.
-        Please, move to the main function first  >> Line - 127.
-*/
+        Please, move to the main function first.
+```
 
+```
 #include <bits/stdc++.h>
 using namespace std;
 
