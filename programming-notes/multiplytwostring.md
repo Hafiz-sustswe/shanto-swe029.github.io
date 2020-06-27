@@ -5,36 +5,36 @@
 
 
 In this code, we'll see how we can multiply two string of the same size.
-        This is necessary because we cannot multiply and get a product if
-        the product becomes larger than 10^19 ( = 10000000000000000000 ).
-        Using this method we can get a product whose value is up to 10^(4294967295).
-        So this is the number you can barely imagine as it has 4294967295 digits!
-    N.B. If we multiply two string of size 3,
-         our product string must be of length 6.
-         So, the the size is x,
-         our product string must be of length 2*x.
-         But we don't need more that 2*x indexes to store the product in a string..
+This is necessary because we cannot multiply and get a product if
+the product becomes larger than 10^19 ( = 10000000000000000000 ).
+Using this method we can get a product whose value is up to 10^(4294967295).
+So this is the number you can barely imagine as it has 4294967295 digits!<br/>
+N.B. If we multiply two string of size 3,
+     our product string must be of length 6.
+     So, the the size is x,
+     our product string must be of length 2*x.
+     But we don't need more that 2*x indexes to store the product in a string..
 
 
 ### Hint:
 ```
-            Suppose, we wanna multiply 345 with 129.
-            so, char s1[] = "345"    ,     s2[] = "129";
-            and, char result[6] = "000000";
-            we are initializing the result string with 6 zeros. "This part is important."
-            Let's see how we can multiply 345 by 129.
-                *       345 x 129 = (345 x 9) + (345 x 20) + (345 x 100)
-                # we will use this method to multiply two string.
-                    >> firstly, we'll multiply 345 by 9, store it in a temporary string and
-                       we'll add the temporary string with our result string.
-                    >> then we'll multiply 345 by 2, store it in a temporary string and
-                       we'll have to ad an extra 0 after the last element of the temporary
-                       string and then we'll add it to our result string.
-                    >> then we multiply 345 by 1, store it in a temporary string, add two
-                       0s after the last elements and then we add it with our result string.
-            Now you have enough instructions to write the code by yourself. First, I suggest that
-            you try it by yourself. If you fail to code, then see my code.
-        Please, move to the main function first.
+Suppose, we wanna multiply 345 with 129.
+so, char s1[] = "345"    ,     s2[] = "129";
+and, char result[6] = "000000";
+ are initializing the result string with 6 zeros. "This part is important."
+Let's see how we can multiply 345 by 129.
+*       345 x 129 = (345 x 9) + (345 x 20) + (345 x 100)
+# we will use this method to multiply two string.
+        >> firstly, we'll multiply 345 by 9, store it in a temporary string and
+           we'll add the temporary string with our result string.
+        >> then we'll multiply 345 by 2, store it in a temporary string and
+           we'll have to ad an extra 0 after the last element of the temporary
+           string and then we'll add it to our result string.
+        >> then we multiply 345 by 1, store it in a temporary string, add two
+           0s after the last elements and then we add it with our result string.
+Now you have enough instructions to write the code by yourself. First, 
+I suggest that you try it by yourself. If you fail to code, then see my code.
+Please, move to the main function first.
 ```
 
 ```cpp
