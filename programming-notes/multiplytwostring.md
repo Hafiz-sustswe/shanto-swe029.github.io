@@ -126,7 +126,8 @@ int main()
 {
 ```
 
-```cpp we are not using character data_type, but string data_type.
+```cpp 
+       we are not using character data_type, but string data_type.
        Because, string data_type allows us to add extra elements
        after the last position.
        But we can also use character data_type and handle the case
