@@ -2,7 +2,7 @@
 
 ***
 
-```Cpp
+```cpp
 ////BISMILLAGIR-RAHMANIR-RAHIM
 
 ///                 Multiply Two Number Using String
