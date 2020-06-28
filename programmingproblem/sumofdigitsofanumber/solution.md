@@ -38,7 +38,7 @@ int main()
 }
 ```
 
-For a better view, [`Click here'](https://pastebin.com/QLVVeCp3)
+For a better view, [`Click here`](https://pastebin.com/QLVVeCp3)
 
 ##### Solution-02
 - Using Modular Arithmetic & User Defined Function
