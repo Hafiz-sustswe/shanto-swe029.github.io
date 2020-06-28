@@ -8,7 +8,7 @@
 - Matrix Multiplication
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication)
     - Hints & Discussion
-    - Solution
+    - [Solution](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication/solution)
 - Sorting A Matrix
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sortingamatrix)
     - Hints & Discussion
