@@ -186,7 +186,8 @@ we will also declare a temporary array of the same size as our result array.
 ```
 
 ```cpp
-    temp.assign(2 * n, '0'); // this is the format >> var_name.assign(number of index, value)
+    temp.assign(2 * n, '0');
+    // this is the format >> var_name.assign(number of index, value)
 ```
 
 ```
