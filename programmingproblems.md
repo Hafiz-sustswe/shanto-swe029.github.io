@@ -3,7 +3,7 @@
 ***
 
 - Matrix Multiplication
-    - [Problem Statement](https://shanto-swe029.github.io/programmingproblem)
+    - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication)
     - Hints & Discussion
     - Solution
 - Sorting A Matrix
