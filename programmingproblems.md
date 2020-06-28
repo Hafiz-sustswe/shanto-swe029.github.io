@@ -18,11 +18,8 @@
 - Sum Of Digits
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sumofdigitsofanumber)
     - Hints & Discussion
-    - Solution
-        - [Solution-1]
-        - [Solution-2]
-        - [Solution-3]
-        - [Solution-4]
+    - [Solution]
+        - `4 Solution Available`
 
 
 ***
