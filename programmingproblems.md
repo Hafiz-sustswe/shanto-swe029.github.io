@@ -6,7 +6,7 @@
 ***
 
 - Matrix Multiplication
-    - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication)
+    - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication/statement)
     - Hints & Discussion
     - [Solution](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication/solution)
 - Sorting A Matrix
