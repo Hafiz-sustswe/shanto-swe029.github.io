@@ -17,4 +17,4 @@
 
 ***
 
-You can reach me at `ariful.shanto786@gmail.com`!
+`This page is maintes by Ariful Islam Shanto`
