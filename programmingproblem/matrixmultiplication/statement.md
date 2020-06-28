@@ -76,5 +76,8 @@
 
 ***
 
+[`See Solution for Matrix MUltiplication`](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication/solution)
+
+***
 
 `This page is mainted by Ariful Islam Shanto`
