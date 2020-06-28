@@ -10,12 +10,12 @@
     - [Hints & Discussion]
     - [Solution](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication/solution)
 - Sorting A Matrix
-    - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sortingamatrix)
+    - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sortingamatrix/statement)
     - [Hints & Discussion]
     - [Solution]
         - `2 Solutions Available!`
 - Sum Of Digits
-    - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sumofdigitsofanumber)
+    - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sumofdigitsofanumber/statement)
     - [Hints & Discussion]
     - [Solution]
         - `4 Solutions Available!`
