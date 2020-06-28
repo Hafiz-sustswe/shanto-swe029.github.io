@@ -7,19 +7,18 @@
 
 - Matrix Multiplication
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication/statement)
-    - Hints & Discussion
+    - [Hints & Discussion]
     - [Solution](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication/solution)
 - Sorting A Matrix
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sortingamatrix)
-    - Hints & Discussion
-    - Solution
-        - [Without Using Function]
-        - [Using Function]
+    - [Hints & Discussion]
+    - [Solution]
+        - `2 Solutions Available`
 - Sum Of Digits
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sumofdigitsofanumber)
-    - Hints & Discussion
+    - [Hints & Discussion]
     - [Solution]
-        - `4 Solution Available`
+        - `4 Solutions Available`
 
 
 ***
