@@ -162,8 +162,8 @@ int main()
 ```
 
 ```
-Now we will declare our result string and set all of the elements to zero.
-Besides we will also declare a temporary array of the same size as our result array.
+Now we will declare our result string and set all of the elements to zero. Besides
+we will also declare a temporary array of the same size as our result array.
 ```
 
 ```cpp
