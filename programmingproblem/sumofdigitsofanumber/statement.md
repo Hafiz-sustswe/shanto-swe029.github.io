@@ -5,6 +5,8 @@
 
 ***
 
+[`See Solution`](https://shanto-swe029.github.io/programmingproblem/sumofdigitsofanumber/solution)
+
 ## Problem Statement
 
 ```
