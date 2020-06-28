@@ -13,12 +13,12 @@
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sortingamatrix)
     - [Hints & Discussion]
     - [Solution]
-        - `2 Solutions Available`
+        - `2 Solutions Available!`
 - Sum Of Digits
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sumofdigitsofanumber)
     - [Hints & Discussion]
     - [Solution]
-        - `4 Solutions Available`
+        - `4 Solutions Available!`
 
 
 ***
