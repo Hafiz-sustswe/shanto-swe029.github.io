@@ -12,7 +12,7 @@
 - Sorting A Matrix
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sortingamatrix/statement)
     - [Hints & Discussion]
-    - [Solution]
+    - [Solution](https://shanto-swe029.github.io/programmingproblem/sortingamatrix/solution)
         - `2 Solutions Available!`
 - Sum Of Digits
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sumofdigitsofanumber/statement)
