@@ -7,6 +7,8 @@
 
 ## Problem Statement
 
+[`See Solution`](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication/solution)
+
 ```
     In this problem, you have to multiply two string (if possible)
     and print the resultant product matrix.
@@ -76,8 +78,5 @@
 
 ***
 
-[`See Solution for Matrix MUltiplication`](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication/solution)
-
-***
 
 `This page is mainted by Ariful Islam Shanto`
