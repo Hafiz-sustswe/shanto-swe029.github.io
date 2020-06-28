@@ -59,7 +59,7 @@ int main()
 }
 ```
 
-[`For a better view`](https://pastebin.com/s239Ftj8)
+For a better view, [`Click Here`](https://pastebin.com/s239Ftj8)
 
 ##### Solution - 02
 
@@ -119,7 +119,7 @@ int main()
 }
 ```
 
-[`For a better view`](https://pastebin.com/Wj16ZcbD)
+For a better view, [`Click Here`](https://pastebin.com/Wj16ZcbD)
 
 ***
 
