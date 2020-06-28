@@ -1,3 +1,6 @@
+[ `return to Home Page` ](https://shanto-swe029.github.io) ||
+[`Programming Notes`](https://shanto-swe029.github.io/programmingnotes)
+
 # Multiply Two Number Using String
 ## Code With Explanation
 
