@@ -17,4 +17,4 @@
 
 ***
 
-`This page is maintes by Ariful Islam Shanto`
+`This page is mainted by Ariful Islam Shanto`
