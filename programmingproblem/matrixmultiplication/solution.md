@@ -8,6 +8,8 @@
 
 ## Solution
 
+[`See Statement`](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication/statement)
+
 #### Using C Language
 
 ```c
