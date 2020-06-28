@@ -41,6 +41,7 @@
         2 3
         -1 3 -1
         4 0 2
+
 <br>
 
     Sample Input
@@ -55,6 +56,7 @@
         2 1
         11
         8
+
 <br>
 
     Sample Input
@@ -66,5 +68,6 @@
         6 3 8
     Sample Output
         Not Possible
+
 <br>
 
