@@ -14,7 +14,7 @@
 
 ## Mathematics Notes
 ## [Programming Notes](https://shanto-swe029.github.io/programmingnotes)
-## [Some Programming Problems](https://shanto-swe029.github.io/programmingproblem)
+## [Some Programming Problems](https://shanto-swe029.github.io/programmingproblems)
 
 ***
 
