@@ -1,6 +1,8 @@
-[ `return to Home Page` ](https://shanto-swe029.github.io)
+[ `return to Home Page` ](https://shanto-swe029.github.io) || [`Some Programming Problems`](https://shanto-swe029.github.io/programmingproblems) || [`Programming Notes`](https://shanto-swe029.github.io/programmingnotes)
 
 # About
+
+***
 
 ## Studies
 - Studying SOFTWARE ENGINEERING at [Shahjalal University of Science and Technology, Sylhet](https://www.sust.edu/).
