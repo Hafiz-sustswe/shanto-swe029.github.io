@@ -1,12 +1,17 @@
 [ `return to Home Page` ](https://shanto-swe029.github.io)
 
+***
 
 # Basic Problem Solving & Confusions
 
 - Array
     - [Smart Declaration](https://shanto-swe029.github.io/programmingnotes/array/smart-declaration)
 
-- [Multiply Two string](shanto-swe029.github.io/programmingnotes/multiplytwostring)
+- pintf() & scanf()
+    - [Common Mistakes](https://shanto-swe029.github.io/programmingnotes/printf-scanf/mistakes)
+
+- Multiply Two string
+    - [Code With Explanation](shanto-swe029.github.io/programmingnotes/multiplytwostring)
 
 
 ***
