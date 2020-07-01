@@ -71,25 +71,18 @@ So to fix this problem we write the following code.
 ```
 
 Ah! Relief! Is it?
-
 <br>
-
 No, it's not. Why? What did we do wrong? Let's have a closer look at the code again. If you can understand the problrm by yourself, 
 that's very good for you. But if you cannot understand, do not panic! Because, panic will seize the day! Move to the next portion.
-
 <br>
-
 In this code, we declared `n` - that is right. But as in the next line, we are declaring `int ara[n]`, will you please tell 
 me what is exactly the value of `n`?
-
 <br>
 
 I guess - now you know the answer! Yes, you are right! We declared `n`, but we did not assign any value to `n` and we had declared 
 an array of size `n`! How pathetic! The array did really mind! So before we declare an array of size `n`, the value of `n` must 
 be assigned or scanned!
-
 <br>
-
 So, the **Smartest Declaration** is as in the following code-
 
 ```c
