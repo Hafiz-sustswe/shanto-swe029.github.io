@@ -1,6 +1,6 @@
 [`return to Home Page`](https://shanto-swe029.github.io/) || [`Programming Notes`](https://shanto-swe029.github.io/programmingnotes)
 
-# printf() & scanf() common mistakes!
+# printf() & scanf() : Common Mistakes!
 
 ***
 
