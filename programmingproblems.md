@@ -29,6 +29,10 @@
     - [Solution](https://shanto-swe029.github.io/programmingproblem/averageofdigits/solution)
         - `2 Solutions Available`
 
+- How Many Integers Are There?
+    - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/howmanyintegers/statement)
+    - [Hint & Discussion]
+    - [Solution](https://shanto-swe029.github.io/programmingproblem/howmanyintegers/solution)
 
 
 ***
