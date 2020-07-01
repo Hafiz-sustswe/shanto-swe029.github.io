@@ -1,4 +1,4 @@
-Go to: [`Home Page`](https://shanto-swe029.github.io/)||[`Some Programming Problems`](https://shanto-swe029.github.io/programmingproblems)
+**Go to:** [`Home Page`](https://shanto-swe029.github.io/)||[`Some Programming Problems`](https://shanto-swe029.github.io/programmingproblems)
 
 # Average Of The Digits Of A Number
 
