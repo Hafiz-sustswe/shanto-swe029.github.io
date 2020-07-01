@@ -36,6 +36,13 @@ Do they still happen in your life? Then this section is for you.
 
 You may try to write some codes using these mistakes and see what happens. I would highly suggest you to do so. Because, if we do not make mistakes, 
 we can never learn.
+<br>
+
+Let's try this yourself - **What happens when you use a wrong datatype in a scanf() function?**
+
+***
+
+## Happy Coding!
 
 ***
 
