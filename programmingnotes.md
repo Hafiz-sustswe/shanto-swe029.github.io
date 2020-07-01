@@ -12,7 +12,7 @@
 
 - String
     - [Store Large Numbers & Count Number Of Digits](https://shanto-swe029.github.io/programmingnotes/string/storelargenumbers)
-    - [Sum of Two Large Numbers]
+    - [Sum of Two Large Numbers](https://shanto-swe029.github.io/programmingnotes/string/sum)
     - [Subtraction]
     - [Multiplication](shanto-swe029.github.io/programmingnotes/multiplytwostring)
 
