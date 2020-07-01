@@ -48,7 +48,7 @@ For a better view, [`Click here`](https://pastebin.com/QLVVeCp3)
 ```c
 #include <stdio.h>
 
-long long SumOfProduct(long long n)
+long long SumOfDigits(long long n)
 {
     long long r, q = n, s = 0;
     while(q > 0) {
@@ -66,7 +66,7 @@ int main()
 
     long long sum;
 
-    sum = SumOfProduct(x);
+    sum = SumOfDigits(x);
 
     printf("%lld\n", sum);
 
