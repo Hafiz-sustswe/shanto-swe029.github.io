@@ -6,8 +6,8 @@
 
 Let's remember this situation - our whole code is okay, but when I want to take input (in Codeblocks), our codes stop running and returns an error.
 <br>
-Let's remember another situation - we added a = 10 with b = 20 and stored in c = a + b. So output must be 30. But when we run our code,
-we see that the output is a 6 digit number or it gives 0!
+Let's remember another situation - we added `a = 10` with `b = 20` and stored in `c = a + b`. So output must be `30`. But when we run our code,
+we see that the output is a `6 digit number` or it gives `0`!
 <br>
 
 Do they still happen in your life? Then this section is for you.
@@ -15,21 +15,21 @@ Do they still happen in your life? Then this section is for you.
 
 ### Syntax of scanf() function
 
-- scanf("%DataType", &VariableName);
+- `scanf("%DataType", &VariableName);`
 
-    - If you mistakenly forget to put the ampersand(&) sign before the variable, your code will crash and will terminate instantly.
-    If you face this sort of problem that your code is not taking input then do not panic and check all the scanf() functions.
+    - If you mistakenly forget to put the `ampersand(&)` sign before the variable, your code will `crash` and will `terminate instantly`.
+    If you face this sort of problem that your code is not taking input then do not panic and `check all the scanf() functions`.
 
 ### Syntax of printf() function
 
-- printf("%DataType", VariableName);
+- `printf("%DataType", VariableName);`
 
-    - If you mistakenly use an ampersand(&) sign before the variable name, your code will print a 6 digit number which indicates the memory 
-    position of the variable. This happens frequently when we copy a scanf() line and change the scanf to printf but forget to remove the 
-    ampersand(&) signs. So, if this happens, do not panic and check all the printf() functions.
+    - If you mistakenly use an `ampersand(&)` sign before the variable name, your code will print a 6 digit number which indicates the memory 
+    position of the variable. This happens frequently when we copy a `scanf()` line and change the scanf to printf but forget to remove the 
+    `ampersand(&)` signs. So, if this happens, do not panic and check all the `printf()` functions.
     
-    - If you mistakenly use wrong datatype, your program may give a output 0 or anything can happen. But in most cases, I found 0. You can write 
-    a code and run it to see the changes. But if this sort of things happen, check all printf() functions.
+    - If you mistakenly use wrong `datatype`, your program may give a output `0` or anything can happen. But in most cases, I found 0. You can write 
+    a code and run it to see the changes. But if this sort of things happen, check all `printf()` functions.
 
 
 ***
