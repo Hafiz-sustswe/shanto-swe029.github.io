@@ -20,6 +20,12 @@
     - [Solution](https://shanto-swe029.github.io/programmingproblem/sumofdigitsofanumber/solution)
         - `4 Solutions Available!`
 
+- Average Of Digits Of A Very Large Number
+    - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/averageofdigits/statement)
+    - [Hints & Discussion]
+    - [Solution](htttps://shanto-swe029.github.io/programmingproblem/averageofdigits/solution)
+
+
 
 ***
 
