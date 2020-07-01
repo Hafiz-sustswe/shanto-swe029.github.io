@@ -1,0 +1,54 @@
+[ `return to Home Page` ](https://shanto-swe029.github.io) || [`Some Programming Problems`](https://shanto-swe029.github.io/programmingproblems) || [`Programming Notes`](https://shanto-swe029.github.io/programmingnotes)
+
+***
+
+# How Many Digits Are There?
+
+***
+
+[`See Statement`](https://shanto-swe029.github.io/programmingproblem/howmanydigits/statement)
+
+***
+
+## Solution
+
+- We have to solve this problem using `string`.
+
+```c
+	#include <stdio.h>
+	#include <string.h>
+
+	int main()
+	{
+    	int T;
+    	scanf("%d", &T);
+    	getchar();
+
+    	char str[1000000];
+    	int i, len, count, flag; 		//flag = 1 >> paichi, flag = 0 >> pai nai
+
+    	while(T--){
+        	gets(str);
+        	len = strlen(str);
+        	count = 0;
+        
+        	for(i = 0; i < len; i++){
+            	if(str[i] != ' '){
+                	flag = 1;
+            	}
+            	else{
+                	if(flag == 1){
+                    	count++;
+                	}
+                	flag = 0;
+            	}
+        	}
+        	printf("%d\n", count + 1);
+    	}
+    	return 0;
+	}
+```
+
+***
+
+`This page is managed by Ariful Islam Shanto`
