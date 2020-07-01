@@ -12,9 +12,9 @@
 
 - String
     - [Store Large Numbers & Count Number Of Digits](https://shanto-swe029.github.io/programmingnotes/string/storelargenumbers)
-
-- Multiply Two string
-    - [Code With Explanation](shanto-swe029.github.io/programmingnotes/multiplytwostring)
+    - [Add Two Large Numbers]
+    - [Subtraction]
+    - [Multiplication](shanto-swe029.github.io/programmingnotes/multiplytwostring)
 
 
 ***
