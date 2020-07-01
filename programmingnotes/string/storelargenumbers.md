@@ -34,7 +34,7 @@ Let's see a simple code!
 	1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
 
 
-So, here we go! But **what is the largest number we can store in a string?**
+So, here we go! Scanning the number as a string, we can store bigger numbers in this way! But **what is the largest number we can store in a string?**
 - A string can store around 10^7 characters (varies from version to version of the language). So you can store a 10^7 digit number in a string! Can you imagine the number which has 10^7 digits! Like the biggest number you can store is **999......999 (10^7 nines!)**. So string is very much helpful for storing very much large numbers while using `long long` / `unsigned long long`, you can use upto 18 digit numbers.
 <br>
 
