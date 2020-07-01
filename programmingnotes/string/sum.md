@@ -81,7 +81,7 @@
 - But remember, we have to start from the back of each string. And The length of out summation storing string must be 1 greater than the length of the other two strings. Lets's get started!
 
 ```c
-	#include <stdio.h>
+    #include <stdio.h>
     #include <string.h>
     int main()
     {
@@ -109,11 +109,11 @@
     }
 ```
 
-So, now we can calculate the sum of two equal length large numbers!
+So, now we can calculate the sum of two equal length large numbers! But here we will get **9876 + 55 = 09931**. How are we gonna get rid of this zero?
 
 ***
 
-In this section, I'll show you how we can add two numbers of different length. Do you have any idea?
+In this section, I'll show you how we can add two numbers of different length and how to skip leading zeros from the string that produces us sum. Do you have any idea?
 [coming soon...]
 
 ***
