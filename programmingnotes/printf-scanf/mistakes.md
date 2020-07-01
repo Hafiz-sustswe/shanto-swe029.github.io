@@ -6,7 +6,7 @@
 
 Let's remember this situation - our whole code is okay, but when I want to take input (in Codeblocks), our codes stop running and returns an error.
 <br>
-Let's remember another situation - we added a with b and stored in c. We assigned the value of a = 10 & b = 20. So output must be 30. But when we run our code,
+Let's remember another situation - we added a = 10 with b = 20 and stored in c = a + b. So output must be 30. But when we run our code,
 we see that the output is a 6 digit number or it gives 0!
 <br>
 
