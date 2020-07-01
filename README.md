@@ -1,22 +1,26 @@
-
-# Ariful Islam Shanto
-
-Studying `Software Engineering` at **Shahjalal University of Science and Technology**.
+# HOME
 
 ***
 
-## [About](https://shanto-swe029.github.io/about)
+## Ariful Islam Shanto
 
-## Contact Info
+***
+
+### About
+
+- Studying `Software Engineering` at **Shahjalal University of Science and Technology**.
+- [More](https://shanto-swe029.github.io/about)
+
+### Contact Info
 - [Facebook](https://facebook.com/shanto3585)
 - Email
 	- ariful.shanto786@gmail.com
 
-# Click on the links below to get what you need!
+## Click on the links below to get what you need!
 
-## 1. Mathematics Notes
-## 2. [Programming Notes](https://shanto-swe029.github.io/programmingnotes)
-## 3. [Some Programming Problems](https://shanto-swe029.github.io/programmingproblems)
+### 1. Mathematics Notes
+### 2. [Programming Notes](https://shanto-swe029.github.io/programmingnotes)
+### 3. [Some Programming Problems](https://shanto-swe029.github.io/programmingproblems)
 
 ***
 
