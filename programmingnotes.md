@@ -4,11 +4,14 @@
 
 # Basic Problem Solving & Confusions
 
+- pintf() & scanf()
+    - [Common Mistakes](https://shanto-swe029.github.io/programmingnotes/printf-scanf/mistakes)
+
 - Array
     - [Smart Declaration](https://shanto-swe029.github.io/programmingnotes/array/smart-declaration)
 
-- pintf() & scanf()
-    - [Common Mistakes](https://shanto-swe029.github.io/programmingnotes/printf-scanf/mistakes)
+- String
+    - [Store Large Numbers & Count Number Of Digits](https://shanto-swe029.github.io/programmingnotes/string/storelargenumbers)
 
 - Multiply Two string
     - [Code With Explanation](shanto-swe029.github.io/programmingnotes/multiplytwostring)
