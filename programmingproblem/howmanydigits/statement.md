@@ -10,21 +10,22 @@
 
 ## Problem Statement
 
-    Shanto loves numbers. His friend Mehraj loves coding. So one day Shanto challanged Mehraj that
-	if Shanto gives Mehraj a line consisting of several integers, can Mehraj write a code to find
-	out how many integers are there? But you know what? Mehraj is very busy these days. So he asks 
-	you to write the code for him.
+    Shanto loves numbers. His friend Mehraj loves coding. So one day Shanto challanged 
+    Mehraj that if Shanto gives Mehraj a line consisting of several integers, can Mehraj 
+    write a code to find out how many integers are there? But you know what? Mehraj is 
+    very busy these days. So he asks you to write the code for him.
 
 ## Input
 
-    In the first line of the input, you will be given a positive integer T (T <= 100000) denoting 
-	the number of test cases. Each of the next T lines will contain one or more positive or 
-	negative integers seperated by one or more spaces. The absolute value of each of the numbers
-	will be not more than 100000000.
+    In the first line of the input, you will be given a positive integer T (T <= 100000) 
+    denoting the number of test cases. Each of the next T lines will contain one or more 
+    positive or negative integers seperated by one or more spaces. The absolute value of 
+    each of the numbers will be not more than 100000000.
 
 ## Output
 
-	Print a number N, in each of the T lines, denoting the number of integers in that line.
+	Print a number N, in each of the T lines, denoting the number of integers in that 
+	line.
 
 ## Example
 
