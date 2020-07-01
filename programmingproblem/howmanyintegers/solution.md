@@ -22,7 +22,8 @@
 	{
     	int T;
     	scanf("%d", &T);
-    	getchar();
+    	getchar();	// If we do not use this getchar then out program will scan the enter 
+			// we press, after typing the value of T, as a string.
 
     	char str[1000000];
     	int i, len, count, flag; 		//flag = 1 >> paichi, flag = 0 >> pai nai
