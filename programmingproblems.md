@@ -1,4 +1,4 @@
-[ `return to Home Page` ](https://shanto-swe029.github.io)
+**Go To:** [`Home Page`](https://shanto-swe029.github.io)
 
 
 # Some Programming Problems
@@ -9,11 +9,13 @@
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication/statement)
     - [Hints & Discussion]
     - [Solution](https://shanto-swe029.github.io/programmingproblem/matrixmultiplication/solution)
+
 - Sorting A Matrix
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sortingamatrix/statement)
     - [Hints & Discussion]
     - [Solution](https://shanto-swe029.github.io/programmingproblem/sortingamatrix/solution)
         - `2 Solutions Available!`
+
 - Sum Of Digits
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/sumofdigitsofanumber/statement)
     - [Hints & Discussion]
@@ -23,7 +25,7 @@
 - Average Of Digits Of A Very Large Number
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/averageofdigits/statement)
     - [Hints & Discussion]
-    - [Solution](htttps://shanto-swe029.github.io/programmingproblem/averageofdigits/solution)
+        - `2 Solutions Available`
 
 
 
