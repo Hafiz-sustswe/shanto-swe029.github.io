@@ -21,6 +21,8 @@ Do they still happen in your life? Then this section is for you.
 
     - If you mistakenly forget to put the `ampersand(&)` sign before the variable, your code will `crash` and will `terminate instantly`.
     If you face this sort of problem that your code is not taking input then do not panic and `check all the scanf() functions`.
+    
+    - But **if you are scanning a string, you must not use `ampersand(&)`!**
 
 ### Syntax of printf() function
 
