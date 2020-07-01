@@ -4,7 +4,7 @@
 # Basic Problem Solving & Confusions
 
 - Array
-    - [Smart Declaration](https://shanto-swe029.github.io/programmingnotes/array/declaration)
+    - [Smart Declaration](https://shanto-swe029.github.io/programmingnotes/array/smart-declaration)
 
 - [Multiply Two string](shanto-swe029.github.io/programmingnotes/multiplytwostring)
 
