@@ -12,6 +12,8 @@
 - Email
 	- ariful.shanto786@gmail.com
 
+# Click on the links below to get what you need!
+
 ## Mathematics Notes
 ## [Programming Notes](https://shanto-swe029.github.io/programmingnotes)
 ## [Some Programming Problems](https://shanto-swe029.github.io/programmingproblems)
