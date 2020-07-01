@@ -11,7 +11,7 @@
 #### Using C language
 
 ##### SOlution-01
-` Using String
+- Using String
 
 ```c
     #include <stdio.h>
