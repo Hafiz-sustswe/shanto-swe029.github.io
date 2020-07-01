@@ -14,26 +14,26 @@
 - Suppose, we want to add 83 and 79. What do we do?
 	
 		We write them like this:-
-				83
-			   +79
-			------
+		        83
+		       +79
+		    ------
 		
 		Then we calculate 3+9 = 12.
 		We place 2 at the units place and count 1 as a carry.
 		        83
 		       +79
-			------
+		    ------
 		         2
 		Then we calculate 8+7+1 = 16.
 		We place 6 at the tens place and count 1 as a carry.
 		        83
 		       +79
-			------
+		    ------
 		        62
 		As there are no digits left, we place 1 at hundreds place.
-				83
-			   +79
-			------
+		        83
+		       +79
+		    ------
 		       162
 		
 - This is algorithm we are going to use! But before that let's work with another example.
@@ -41,36 +41,36 @@
 
 		We write them like this:-
 		    9876
-			+ 55
+		    + 55
 		--------
 		
-		calculate 6 + 5 = 11.
-		Place 1 = 11 % 10 at units place, count 1 = 11 / 10 as a carry.
+		calculate 6+5 = 11.
+		Place 1 (= 11 % 10) at units place, count 1 (= 11 / 10) as a carry.
 		    9876
-			+ 55
+		    + 55
 		--------
 		       1
-		Calculate 7 + 5 + 1 = 13
+		Calculate 7+5+1 = 13
 		Place 3 = 13 % 10 at tens place, count 1 = 13 / 10 as a carry
 		    9876
-			+ 55
+		    + 55
 		--------
 		      31
-		Now, we calculate 8 + 1 = 8 + 0 + 1 = 9
-		Place 9 = 9 % 10 at hundreds place, count 0 = 9 / 10 as a carry
+		Now, we calculate 8+0+1 = 9
+		Place 9 (= 9 % 10) at hundreds place, count 0 (= 9 / 10) as a carry
 		    9876
-			+ 55
+		    + 55
 		--------
 		     931
-		Calculate 9 + 0 + 0 = 9.
-		place 9 = 9 % 10 at hundreds place, count 0 = 9 / 10 as a carry
+		Calculate 9+0+0 = 9.
+		place 9 (= 9 % 10) at hundreds place, count 0 (= 9 / 10) as a carry
 		    9876
-			+ 55
+		    + 55
 		--------
 		    9931
 		As there are no digits left, we place 0 at thousands place
 		    9876
-			+ 55
+		    + 55
 		--------
 		   09931
 
