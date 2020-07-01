@@ -1,19 +1,19 @@
-[`return to Home Page`](https://shanto-swe029.github.io/)||[`Some Programming Problems`](https://shanto-swe029.github.io/programmingproblems)
+Go to: [`Home Page`](https://shanto-swe029.github.io/)||[`Some Programming Problems`](https://shanto-swe029.github.io/programmingproblems)
 
 # Average Of The Digits Of A Number
 
 ***
 
-[`See Solution`]
+[`See Solution`](htttps://shanto-swe029.github.io/programmingproblem/averageofdigits/solution)
 
 ## Problem Statement
 
-    You will be given an integer x. You have to find
+    You will be given an integer. You have to find
     the average of the sum of the digits of the integer and print it.
 
 ## Input
 
-    The only one line of input will contain an integer n. n <= 10^(50).
+    The only one line of input will contain an integer n; where 0 < n <= 10^(50).
 
 ## Example
 
@@ -38,4 +38,5 @@
     9
     
 ***
+
 `This page is managed by Ariful Islam Shanto`
