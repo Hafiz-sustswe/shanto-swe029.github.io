@@ -27,7 +27,7 @@
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/averageofdigits/statement)
     - [Hints & Discussion]
     - [Solution](https://shanto-swe029.github.io/programmingproblem/averageofdigits/solution)
-        - `2 Solutions Available`
+        - `2 Solutions Available!`
 
 - How Many Integers Are There?
     - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/howmanyintegers/statement)
