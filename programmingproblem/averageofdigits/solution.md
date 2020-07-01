@@ -1,8 +1,8 @@
-**Go To**: [`Home Page'](https://shanto-swe029.github.io/)||[`Some Programming Problem`]
+**Go To**: [`Home Page`](https://shanto-swe029.github.io/) || [`Some Programming Problem`](https://shanto-swe029.github.io/programmingproblems)
 
 # Average Of Digits Of A Number
 
-[`See Statement`]
+[`See Statement`](https://shanto-swe029.github.io/programmingproblem/averageofdigits/statement)
 
 ***
 
@@ -11,69 +11,6 @@
 #### Using C language
 
 ##### SOlution-01
-
-- Using Modular Arithmetic
-
-***
-
-```c
-    #include <stdio.h>
-    int main()
-    {
-        long long x; // as x <= 10^19
-        scanf("%lld", &x);
-
-        long long q = x, r, sum = 0, tot = 0;
-
-        while(q > 0) {
-            r = q % 10;
-            sum += r;
-            q /= 10;
-            tot++;
-        }
-
-        double avg = (double) sum / (double)tot;
-
-        printf("%lf\n", avg);
-
-
-        return 0;
-    }
-```
-
-For a better view, [`Click Here`](https://pastebin.com/R9S5GzRM)
-
-##### SOlution-02
-- Using Modular Arithmetic & User Defined Function
-
-```c
-    #include <stdio.h>
-
-    double Average(long long n)
-    {
-        long long r, q = n, s = 0, tot = 0;
-        while(q > 0) {
-            r = q % 10;
-            s += r;
-            q /= 10;
-            tot++;
-        }
-    return (double)s / (double)tot;
-    }
-
-    int main()
-    {
-        long long x; // as x <= 10^19
-        scanf("%lld", &x);
-        double avg = Average(x);
-        printf("%lf\n", avg);
-        return 0;
-    }
-```
-
-For a better view, [`Click Here`](https://pastebin.com/FiYWfgTm)
-
-##### SOlution-03
 ` Using String
 
 ```c
@@ -100,7 +37,7 @@ For a better view, [`Click Here`](https://pastebin.com/FiYWfgTm)
 
 For a better view, [`Click Here`](https://pastebin.com/3A6bx5XC)
 
-##### SOlution-04
+##### SOlution-02
 - Using Stirng & User Defined Function
 
 ```c
