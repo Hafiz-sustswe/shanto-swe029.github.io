@@ -45,14 +45,14 @@ If you have read these two codes carefully, then move to the next section.
 
 ***
 
-**In the first code**, we declared an array of size 500000. Then we scanned a value of n and took input of n integers as the elements of the array. 
-Now, if n = 5, we do not need an array of size 500000! Again if n > 500000, this array will not be able to store all elements we need. Moreover, we will get a runtime error!
+**In the first code**, we declared an array of size `500000`. Then we scanned a value of n and took input of n integers as the elements of the array. 
+Now, if `n = 5`, we do not need an array of size `500000`! Again if `n > 500000`, this array will not be able to store all elements we need. Moreover, we will get a `runtime error`!
 <br>
 So, to become a smart programmer, we declare the array as of the second example and BINGO! We feel like we are smarter than ever! 
-But in this declaration, we will get a compilation error! Why?
+But in this declaration, we will get a `compilation error`! Why?
 <br>
-Let's have a look at the code again. At first, we declared `ara[n]` and then we declared n. As C compilers run line by line, in the first line, it will see that we have used a variable `n`, but we have not declared 'n' yet! 
-So, we'll get a compilation error! Because, in that particular line, the compiler does not know who the hell this `n` is!
+Let's have a look at the code again. At first, we declared `ara[n]` and then we declared `n`. As C compilers run line by line, in the first line, it will see that we have used a variable `n`, but we have not declared 'n' yet! 
+So, we'll get a `compilation error`! Because, in that particular line, the compiler does not know who the hell this `n` is!
 <br>
 So to fix this problem we write the following code.
 
