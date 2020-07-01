@@ -4,7 +4,7 @@ Go to: [`Home Page`](https://shanto-swe029.github.io/)||[`Some Programming Probl
 
 ***
 
-[`See Solution`](htttps://shanto-swe029.github.io/programmingproblem/averageofdigits/solution)
+[`See Solution`](https://shanto-swe029.github.io/programmingproblem/sumofdigitsofanumber/solution)
 
 ## Problem Statement
 
