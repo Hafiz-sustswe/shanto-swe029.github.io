@@ -20,8 +20,8 @@
 
 ### 1. Mathematics Notes
 ### 2. [Programming Notes](https://shanto-swe029.github.io/programmingnotes)
-### 3. [Some Programming Problems](https://shanto-swe029.github.io/programmingproblems)
-### 4. [My personal Blog](https://programmingnotesofshanto.blogspot.com/)
+### 3. [Programming Problems](https://shanto-swe029.github.io/programmingproblems)
+### 4. [My Blogger ID](https://programmingnotesofshanto.blogspot.com/)
 
 ***
 
