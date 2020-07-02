@@ -2,7 +2,7 @@
 
 ***
 
-![My Programming Notes](https://github.com/shanto-swe029/shanto-swe029.github.io/blob/master/logo-programmingnotesofshanto.png)
+![My Programming Notes](https://shanto-swe029.github.io/logo-programmingnotesofshanto.png)
 
 ***
 
