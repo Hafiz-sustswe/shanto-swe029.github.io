@@ -11,6 +11,10 @@
 - pintf() & scanf()
     - [Common Mistakes](https://shanto-swe029.github.io/programmingnotes/printf-scanf/mistakes)
 
+- ASCII Value
+    - [Basic Concepts](https://shanto-swe029.github.io/programmingnotes/ASCII-value/basic-concepts)
+    - [Basic Applications](https://shanto-swe029.github.io/programmingnotes/ASCII-value/basic-applications)
+
 - Array
     - [Smart Declaration](https://shanto-swe029.github.io/programmingnotes/array/smart-declaration)
 
