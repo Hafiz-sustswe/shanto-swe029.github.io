@@ -83,12 +83,12 @@ We know that ASCII values of the characters from 'A' to 'Z' is from `65 to 90`. 
 
 Now we can observe that :-
 
-	'a' = 97	&	'A' = 65	>>	97 - 65 = 32	>>	'a' - 'A' = 32;
-	'b' = 98	&	'B' = 66	>>	98 - 66 = 32	>>	'b' - 'B' = 32;
-	'c' = 99	&	'C' = 67	>>	99 - 67 = 32	>>	'c' - 'C' = 32;
+	'a' = 97	&	'A' = 65  >> 97 - 65 = 32	>> 'a' - 'A' = 32;
+	'b' = 98	&	'B' = 66  >> 98 - 66 = 32	>> 'b' - 'B' = 32;
+	'c' = 99	&	'C' = 67  >> 99 - 67 = 32	>> 'c' - 'C' = 32;
 	...
 	...
-	'z' = 122	&	'Z' = 90	>> 	122 - 90 = 32	>>	'z' - 'Z' = 32;
+	'z' = 122	&	'Z' = 90  >> 122 - 90 = 32  >> 'z' - 'Z' = 32;
 
 So, `32` is a very important number for us. As you see the right most column, **difference of same upper case and lower case character is 32 and it is constant for all of the 26 alphabets.** Now we can use it for some very good purposes. Let's see.
 
@@ -119,7 +119,29 @@ So, `32` is a very important number for us. As you see the right most column, **
 		
 		The output is `a`.
 
-So, these are the basic concepts of ASCII vlaues in programming language. You might want to see [The Basic Applications](https://shanto-swe029.github.io/programmingnotes/ASCII-value/basic-applications) of ASCII value.
+Now I'll leave one unexplained code along with the output. Try to figure out what is happening there.
+
+- Code:
+	```c
+		int main()
+		{
+			char ch1 = 'q';
+			char ch2 = 'A' + ('q' - 'a');
+			printf("ch1 = %c & ch2 = %c\n", ch1, ch2);
+			
+			char ch3 = 'R';
+			char ch4 = 'a'+ ('R' - 'A');
+			printf("ch3 = %c, ch4 = %c\n", ch3, ch4);
+			retur 0;
+		}
+	```
+		Output:
+		ch1 = q & ch2 = Q
+		ch3 = R & ch4 = r
+
+I wish you all will be able to find out what is happening here in this code.
+
+So, these are the basic concepts of ASCII vlaues in C programming language. You might want to see [The Basic Applications](https://shanto-swe029.github.io/programmingnotes/ASCII-value/basic-applications) of ASCII value.
 
 Thank you for reading! If you have any suggestions, you can send me an email at `ariful.shanto786@gmail.com` or instead leave a message for me at my [Facebook ID](https://facebook.com/shanto3585).
 
