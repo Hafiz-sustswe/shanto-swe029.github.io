@@ -4,7 +4,7 @@
 
 # ASCII Value : Basic Applications
 
-Here we will see some basic operations we can make with the help of the concept of ASCII values. This part is so much important for programmers.
+Here we will see some basic operations we can make with the help of the concept of ASCII values. This part is so much important for programmers. And
 
 
 
