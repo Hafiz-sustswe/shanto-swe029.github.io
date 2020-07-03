@@ -43,7 +43,7 @@ What is the output? Is it `b` ? Yes, it is. Because, `ch1` stored the ASCII valu
 
 	The second character is b.
 
-As we are saying that `character variables store ASCII values`, can we print the value using these character variables? Yes, we can. See the following code :-
+As we are saying that `character variables store ASCII values`, can we print that value using these character variables? Yes, we can. See the following code :-
 
 ```c
 	int main()
