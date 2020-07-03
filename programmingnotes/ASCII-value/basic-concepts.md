@@ -88,7 +88,7 @@ Now we can observe that :-
 	'c' = 99	&	'C' = 67	>>	99 - 67 = 32	>>	'c' - 'C' = 32;
 	...
 	...
-	'z' = 122	&	'Z' = 90	>> 122 - 90 = 32	>>	'z' - 'Z' = 32;
+	'z' = 122	&	'Z' = 90	>> 	122 - 90 = 32	>>	'z' - 'Z' = 32;
 
 So, `32` is a very important number for us. As you see the right most column, **difference of same upper case and lower case character is 32 and it is constant for all of the 26 alphabets.** Now we can use it for some very good purposes. Let's see.
 
