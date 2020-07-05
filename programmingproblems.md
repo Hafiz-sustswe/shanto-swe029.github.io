@@ -34,6 +34,10 @@
     - [Hint & Discussion]
     - [Solution](https://shanto-swe029.github.io/programmingproblem/howmanyintegers/solution)
 
+- Internship Viva
+    - [Problem Statement](https://shanto-swe029.github.io/programmingproblem/internship-viva/statement)
+    - [Hints & Discussion]
+    - [Solution](https://shanto-swe029.github.io/programmingproblem/internship-viva/solution)
 
 ***
 
