@@ -13,7 +13,7 @@
 
 ## Club Involvements
 - [Notre Dame Math Club](https://facebook.com/official.ndmc)
-- Member (2017-1029)
+    - Member (2017-1029)
 - [Rajuk Math Circle](https://facebook.com/rajukmathcircle)
     - President (2018-2019)
     - Member (2016-present)
