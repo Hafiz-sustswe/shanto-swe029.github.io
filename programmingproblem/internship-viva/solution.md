@@ -8,7 +8,7 @@
 
 ## Solution
 
-[`See Statement`](https://shanto-swe029.github.io/programmingproblem/sort-the-struct/statement)
+[`See Statement`](https://shanto-swe029.github.io/programmingproblem/internship-viva/statement)
 
 
 
