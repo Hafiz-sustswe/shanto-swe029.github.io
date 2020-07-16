@@ -50,7 +50,7 @@
     another space, then print their number of problem solved, then again
     print a space and then print the CGPA. The information of each student
     must be printed in seperated lines and according to the sorting order
-    your company wants.
+    your company wants (shown in the example).
     
 ## Example:
 
@@ -69,17 +69,18 @@
     Sajid 2019831045 3000 3.99
     
     Output:
-    Mehraj 2019831074 4000 3.69
-    Shawon 2019831013 3500 3.89
-    Mugdha 2019831048 3500 3.89
-    Sajid 2019831045 3000 3.99
-    Jisan 2019831040 3000 3.68
-    Bijon 2019831007 3000 3.68
-    Fahad 2019831065 3000 3.59
-    Meem 2019831063 2500 3.78
-    Promi 2019831038 2500 3.77
-    Abraar 2019831076 1800 3.55
-    Shanto 2019831029 1500 2.33
+    After sorting the list is:
+     1. Mehraj 2019831074 4000 3.69
+     2. Shawon 2019831013 3500 3.89
+     3. Mugdha 2019831048 3500 3.89
+     4. Sajid 2019831045 3000 3.99
+     5. Jisan 2019831040 3000 3.68
+     6. Bijon 2019831007 3000 3.68
+     7. Fahad 2019831065 3000 3.59
+     8. Meem 2019831063 2500 3.78
+     9. Promi 2019831038 2500 3.77
+    10. Abraar 2019831076 1800 3.55
+    11. Shanto 2019831029 1500 2.33
     
 **Happy Coding!**
 
