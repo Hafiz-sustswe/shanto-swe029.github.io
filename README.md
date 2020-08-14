@@ -1,5 +1,5 @@
 <p align = 'center'>
-	<font size = "24" color = "blue" face = "kritsen ITC">HOME</font>
+	<font size = "24" color = "blue" face = "kritsen ITC"><b><mark>HOME</mark></b></font>
 </p>
 
 ***
