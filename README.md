@@ -1,4 +1,6 @@
-# HOME
+<p align = 'center'>
+	<font size = "24">HOME</font>
+</p>
 
 ***
 
@@ -25,8 +27,9 @@
 ### 5. [My Blogger ID](https://programmingnotesofshanto.blogspot.com/)
 
 ***
-
-![My Photo](https://shanto-swe029.github.io/shanto.jpg)<br/>
+<p align='center'>
+	<img align='center' src = "https://shanto-swe029.github.io/shanto.jpg">
+</p>
 
 ***
 
