@@ -1,5 +1,5 @@
 <p align = 'center'>
-	<font size = "24" color = "black" face = "times new roman"><b><mark>HOME</mark></b></font>
+	<marquee><font size = "24" color = "black" face = "times new roman"><b><mark>HOME</mark></b></font></marquee>
 </p>
 
 ***
