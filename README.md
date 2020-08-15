@@ -34,4 +34,4 @@ I am currently working on the following branches. If you are interested in my wo
 Hi, This is <b>Ariful Islam Shanto</b>!<br>
 Studying <b>Software Engineering</b><br>
 At <b>Shahjalal University Of Science & Technology</b>.<br>
-[more...](https://shanto-swe029.github.io/about)<br>
+<a href = "https://shanto-swe029.github.io/about"> more... </a>
