@@ -6,9 +6,9 @@
 	</marquee>
 </div>
 
-<div align = "center" style = "background : black;">
+<div align = "center" style = "background : black; height : 295px;">
 	<image src = "https://shanto-swe029.github.io/MyGithubPhotos/homepagelogo.png" alt = "My Home Page Logo">
-		</div>
+</div>
 
 
 
