@@ -12,10 +12,6 @@
 
 
 
-
-<image align= "center" src = "https://shanto-swe029.github.io/shanto.jpg">
-
-
-
-
-`This page is mainted by Ariful Islam Shanto`
+<div align = "center" style = "background : black;">
+	<image src = "https://shanto-swe029.github.io/shanto.jpg">
+</div>
