@@ -8,10 +8,10 @@
 
 <div align = "center" style = "background : black;">
 	<image src = "https://shanto-swe029.github.io/MyGithubPhotos/homepagelogo.png" alt = "My Home Page Logo">
-</div>
+		</div>
 
 
 
 <div align = "center" style = "background : black;">
 	<image src = "https://shanto-swe029.github.io/shanto.jpg">
-</div>
+		</div>
