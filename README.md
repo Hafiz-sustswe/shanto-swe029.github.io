@@ -22,8 +22,10 @@ I am currently working on the following branches. If you are interested in my wo
  [![](https://shanto-swe029.github.io/MyGithubPhotos/mustdomathforcp2.png)](https://shanto-swe029.github.io/must-do-math-cp/home) 
 
   
-
-##     **About Me**  
+ <div class="panel panel-gitlab-purple">
+ 
+### About Me
+{: .gitlab-purple} 
 
 * * *
 
