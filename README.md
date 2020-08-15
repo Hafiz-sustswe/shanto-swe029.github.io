@@ -13,9 +13,8 @@
 
 
 
-<div style = "background : black; align : center">
-	<image align= "center" src = "https://shanto-swe029.github.io/shanto.jpg">
-</div>
+<image align= "center" src = "https://shanto-swe029.github.io/shanto.jpg">
+
 
 
 
