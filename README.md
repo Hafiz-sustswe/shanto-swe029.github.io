@@ -13,5 +13,5 @@
 
 
 <p align = "center" style = "background : black;">
-	<image src = "https://shanto-swe029.github.io/shanto.jpg">
+	<image src = "https://shanto-swe029.github.io/shanto.jpg" height = "50%" width = "50%">
 <p/>
