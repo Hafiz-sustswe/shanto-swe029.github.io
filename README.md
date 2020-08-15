@@ -26,8 +26,6 @@ I am currently working on the following branches. If you are interested in my wo
  
 ## **About Me** 
 
-* * *
-
 Hi, This is **Ariful Islam Shanto**! 
 Studying **Software Engineering**  
 At **Shahjalal University Of Science & Technology**.
