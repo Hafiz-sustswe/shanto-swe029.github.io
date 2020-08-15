@@ -29,8 +29,6 @@ Hi, This is **Ariful Islam Shanto**!<br>
 Studying **Software Engineering**<br>
 At **Shahjalal University Of Science & Technology**.<br>
 [more...](https://shanto-swe029.github.io/about)<br>
-
-
 <p align='center'>
 <img align='right' src="https://shanto-swe029.github.io/MyGithubPhotos/myphoto1.jpg">
 
