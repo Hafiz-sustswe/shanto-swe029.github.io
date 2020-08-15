@@ -15,14 +15,14 @@
 
 <div align = "center" style = "font-family : courier new; color : white; font-size : 72; background : black;">
 			Here I Offer You
-</div>
+<div/>
 
 <div align = "center" style = "background : transparent;cursor: pointer;" onclick="window.location='https://shanto-swe029.github.io/programmingnotes';">
 	<br>
 	<a href = "https://shanto-swe029.github.io/programmingnotes">
 		<image src = "https://shanto-swe029.github.io/MyGithubPhotos/programmingnotes.png" height = "250px" width = "250px">
 	</a>
-</div>
+<div/>
 
 <div align = "center" style = "background : cyan; cursor : pointer;" onclick = "window.location='https://shanto-swe029.github.io/mathematicsnotes'">
 	<br>
