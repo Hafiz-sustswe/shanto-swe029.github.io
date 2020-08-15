@@ -24,8 +24,7 @@ I am currently working on the following branches. If you are interested in my wo
   
  <div class="panel panel-gitlab-purple">
  
-### About Me
-{: .gitlab-purple} 
+## **About Me** 
 
 * * *
 
