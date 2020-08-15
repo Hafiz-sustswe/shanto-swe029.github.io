@@ -9,7 +9,7 @@
 
 ![My Home Page Logo](https://shanto-swe029.github.io/MyGithubPhotos/homepagelogo.png)
 
-I am currently working on the following branches. If you are interested in my work, then visit the following links:
+**I am currently working on the following branches. If you are interested in my work, then visit the following links:**
 
  [![](https://shanto-swe029.github.io/MyGithubPhotos/programmingnotes.png)](https://shanto-swe029.github.io/programmingnotes) 
   
