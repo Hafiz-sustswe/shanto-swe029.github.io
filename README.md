@@ -1,7 +1,8 @@
-<div style = "font-family : courier new; font-size : 36; height : 100px; background : black;">	
-	<br>
+<div style = "font-family : courier new; font-size : 36; height : 100px; background : black;">
 	<marquee>
-		<font size = "24" color = "white"> W e l c o m e  &nbsp;&nbsp;&nbsp;&nbsp;  T o  &nbsp;&nbsp;&nbsp;&nbsp;  <mark> A r i f u l &nbsp;&nbsp;&nbsp;&nbsp; I s l a m &nbsp;&nbsp;&nbsp;&nbsp; S h a n t o</mark>'s  &nbsp;&nbsp;&nbsp;&nbsp;  W e b  &nbsp;&nbsp;&nbsp;&nbsp;  P a g e  &nbsp;&nbsp;&nbsp;&nbsp;  R e p o s i t o r y</font>
+		<font size = "24" color = "white"> 
+			Welcome  To <mark>Ariful Islam Shanto</mark>'s Web Page Repository
+		</font>
 	</marquee>
 </div>
 
