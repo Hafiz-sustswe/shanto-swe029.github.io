@@ -32,7 +32,11 @@ Studying <b>Software Engineering</b><br>
 At <b>Shahjalal University Of Science & Technology</b>.<br>
 <a href = "https://shanto-swe029.github.io/about"> more... </a><br>
 To contact with me click on the following links:<br>
-[💌 ariful.shanto786@gmail.com](mailto:ariful.shanto786@gmail.com)<br>
-[💬 Facebook](https://facebook.com/shanto3585)<br>
-[📷 Instragram](https://www.instagram.com/____s___h___a___n___t___o____/)<br>
-[🎇 Github](https://github.com/shanto-swe029/)<br>
+💌 <a href = "mailto:ariful.shanto786@gmail.com"> ariful.shanto786@gmail.com </a>
+<br>
+💬 <a href = "https://facebook.com/shanto3585"> Facebook </a>
+<br>
+📷 <a href = "https://www.instagram.com/____s___h___a___n___t___o____/"> Instragram </a>
+<br>
+🎇 <a href = "https://github.com/shanto-swe029/"> Github </a>
+<br>
