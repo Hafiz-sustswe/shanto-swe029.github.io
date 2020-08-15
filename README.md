@@ -6,7 +6,9 @@
 	</marquee>
 </div>
 
-***
+<div align = "center" style = "background : black; align : center;">
+	<image src = "https://shanto-swe029.github.io/MyGithubPhotos/homepagelogo.png" alt = "My Home Page Logo">
+</div>
 
 ## Ariful Islam Shanto
 
