@@ -27,7 +27,7 @@
 
 ***
  
-## **	📝About Me & 📫Contact Info**  
+## <b>📝About Me & 📫Contact Info</b>  
 
 
 <p align='center'>
