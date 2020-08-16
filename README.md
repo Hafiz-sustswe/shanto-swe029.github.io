@@ -27,7 +27,7 @@
 
 ***
  
-## **About Me & Contact Info**  
+## **	📝About Me & 📫Contact Info**  
 
 
 <p align='center'>
@@ -36,11 +36,11 @@
  <p/>
 
 Hi 👋 This is <b>👦 Ariful Islam Shanto</b>!👉<br>
-📚 Studying <b>💻 Software Engineering</b><br>
+📚 Studying <b>💻 Software Engineering🎭</b><br>
 At <b>🎓 Shahjalal University Of Science & Technology</b>.<br>
 <a href = "https://shanto-swe029.github.io/about"> more... </a><br>
-💥To contact with me click on the following links 🔗:<br>
-💌 <a href = "mailto:ariful.shanto786@gmail.com"> ariful.shanto786@gmail.com </a>
+📞To contact with me click on the following links 🔗:<br>
+📧 <a href = "mailto:ariful.shanto786@gmail.com"> ariful.shanto786@gmail.com </a>
 <br>
 💬 <a href = "https://facebook.com/shanto3585"> Facebook </a>
 <br>
