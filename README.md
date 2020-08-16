@@ -21,9 +21,9 @@
  
  ***
 
-**You might be interested 💟 in my github organizations' works on** <mark><b>Programming Materials</b></mark>. **Click on the icon ⚽ below to visit my organizations' page:**⏬
+**You might be interested 💟 in my github organizations' works on** <mark><b>Programming Materials</b></mark>. **Click on the icon ⚽ below to visit my organizations' page:**
 
-⏩ <a href = "https://definecoder.github.io/"> <img src = "https://shanto-swe029.github.io/newgitphoto/definecoder.png" height = "80"> </a>
+<a href = "https://definecoder.github.io/"> <img src = "https://shanto-swe029.github.io/newgitphoto/definecoder.png" height = "80"> </a>
 
 ***
  
