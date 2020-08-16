@@ -10,14 +10,14 @@
 ![My Home Page Logo](https://shanto-swe029.github.io/MyGithubPhotos/homepagelogo.png)
 
 
-**I am currently working on the following branches. If you are interested in my work, then visit the following links 🌐:**
- 
- 
-<a href = "https://shanto-swe029.github.io/programmingnotes"> <img src = "https://shanto-swe029.github.io/MyGithubPhotos/programmingnotes.png" height = "100" align = "left"> </a>
-<a href = "https://shanto-swe029.github.io/mathematicsnotes"> <img src = "https://shanto-swe029.github.io/MyGithubPhotos/mathematicsnotes.png" height = "100" width = "150"> </a>
-<a href = "https://shanto-swe029.github.io/programmingproblems"> <img src = "https://shanto-swe029.github.io/MyGithubPhotos/programmingproblems.png" height = "100"> </a>
-<a href = "https://shanto-swe029.github.io/must-do-math-cp/home"> <img src = "https://shanto-swe029.github.io/MyGithubPhotos/mustdomathforcp2.png" height = "100"> </a>
- 
+**I am currently working 🏩 on the following branches ⚓. If you are interested 💟 in my work, then visit the following links 🔗:** ⏬
+
+
+<a href = "https://shanto-swe029.github.io/programmingnotes"> <img src = "https://shanto-swe029.github.io/newgitphoto/programmingnotes.png" height = "100" align = "left"> </a>
+<a href = "https://shanto-swe029.github.io/mathematicsnotes"> <img src = "https://shanto-swe029.github.io/newgitphoto/mathematicsnotes.png" height = "100"> </a>
+<a href = "https://shanto-swe029.github.io/programmingproblems"> <img src = "https://shanto-swe029.github.io/newgitphoto/programmingproblems.png" height = "100"> </a>
+<a href = "https://shanto-swe029.github.io/must-do-math-cp/home"> <img src = "https://shanto-swe029.github.io/newgitphoto/mustdomathforcp.png" height = "100"> </a>
+
  
 ## **About Me & Contact Info**  
 
