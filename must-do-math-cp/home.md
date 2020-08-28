@@ -31,11 +31,24 @@ Here I am sharing some links from where you can learn above topics. Make sure th
 - BigInteger
   - 👉 [Geeks For Geeks](https://www.geeksforgeeks.org/biginteger-class-in-java/)
 
+- Euclidean Algorithm (Basic & Extended)
+  - 👉 [Geeks For Geeks](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/?ref=lbp)
+
+
+
 - Modular Arithmetic
   - 👉 [Theory Of Programming](http://theoryofprogramming.com/2014/12/24/modular-arithmetic-properties/)
 
-- Modular Exponentiation
+- Modular Exponentiation (Power in Modular Arithmetic)
   - 👉 [Geeks For Geeks](https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/)
+
+- Modular Exponentiation (Recursive)
+  - 👉 [Geeks For Geeks](https://www.geeksforgeeks.org/modular-exponentiation-recursive/?ref=lbp)
+
+- Modular Multiplicative Inverse
+  - 👉 [Geeks For Geeks](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/?ref=lbp)
+
+
 
 - Catalan Number
   - 👉 [Geeks For Geeks](https://www.geeksforgeeks.org/program-nth-catalan-number/)
