@@ -21,10 +21,31 @@ If it is your target to be a competitive programmer, then you must learn the fol
 - 👉 Catalon Number
 - 👉 The Pigeonhole Principal
 - 👉 The Inclusion Exclusion Principal
+- 👉 Combinatorics & Probability
 
 If you know the basic concepts of these topics and if you can master yourself in using these theorems to solve problems, then you will do better in competitive programming.
 
-Thank you. You can learn these topics from the internet or any book. I will give their links or necessary documents very soon.
+Here I am sharing some links from where you can learn above topics. Make sure that you also search through internet for more sources.
+
+
+- BigInteger
+  - 👉 [Geeks For Geeks](https://www.geeksforgeeks.org/biginteger-class-in-java/)
+
+- Modular Arithmetic
+  - 👉 [Theory Of Programming](http://theoryofprogramming.com/2014/12/24/modular-arithmetic-properties/)
+
+- Modular Exponentiation
+  - 👉 [Geeks For Geeks](https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/)
+
+- Catalan Number
+  - 👉 [Geeks For Geeks](https://www.geeksforgeeks.org/program-nth-catalan-number/)
+
+- Pigeonhole Principal
+  - 👉 [Geeks For Geeks](https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/)
+
+- Combinatorics & Probability
+  - 👉 [Codechef](https://www.codechef.com/wiki/tutorial-expectation/)
+
 
 **Happy Coding!**
 
