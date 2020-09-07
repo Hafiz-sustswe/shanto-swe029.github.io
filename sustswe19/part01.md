@@ -15,7 +15,6 @@
 ### Determining Frequency of Each Element
 
 
-
 ***
 
 **`This page is mainted by Ariful Islam Shanto`**
