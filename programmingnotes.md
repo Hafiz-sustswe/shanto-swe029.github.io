@@ -27,6 +27,7 @@
 
 - 3️⃣ Array
     - 🚩[Smart Declaration](https://shanto-swe029.github.io/programmingnotes/array/smart-declaration)
+    - 🚩[SUST SWE'19 Discussion](https://shanto-swe029.github.io/programmingnotes/array/swe19Discussion)
 
 
 
