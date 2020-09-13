@@ -14,6 +14,11 @@
 
 ### Array
   - [Part-01](https://shanto-swe029.github.io/sustswe19/array-part01)(06 September, 2020)
+  - [Part-02](https://shanto-swe029.github.io/sustswe19/array-part02)(09 September, 2020)
+  - [Problem Set](https://shanto-swe029.github.io/sustswe19/ArrayRelatedProblems.pdf)
+
+### String 
+  - [Part-01](https://shanto-swe029.github.io/sustswe19/string-part01)(12 September, 2020)
   - [Part-02]
   
 
