@@ -1,7 +1,7 @@
 <div style="font-family : courier new; background : black;">  
 <marquee><font size="24" color="white">
 
-# Welcome To <mark>Shanto</mark>'s Blog
+Welcome To <mark>Shanto</mark>'s Blog
 
 </font></marquee></div>
 
