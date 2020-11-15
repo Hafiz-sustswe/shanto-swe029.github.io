@@ -1,7 +1,7 @@
 <div style="font-family : courier new; background : black;">  
 <marquee><font size="24" color="white">
 
-# Welcome To <mark>Ariful Islam Shanto</mark>'s Web Page Repository
+# Welcome To <mark>Shanto</mark>'s Blog
 
 </font></marquee></div>
 
@@ -22,7 +22,7 @@
  
  ***
 
-**You might be interested 💟 in my github organizations' works on** <mark><b>Programming Materials</b></mark>. **Click on the icon ⚽ below to visit my organizations' page:**
+**You might be interested 💟 in my github organization's works on** <mark><b>Programming Materials</b></mark>. **Click on the icon below to visit my organization's blog:**
 
 <a href = "https://definecoder.github.io/"> <img src = "https://shanto-swe029.github.io/newgitphoto/definecoder.png" height = "80"> </a>
 
