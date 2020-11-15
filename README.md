@@ -1,4 +1,4 @@
-<div style="font-family : courier new; background : black;">  
+<div style="font-family : Kristen ITC; background : black;">  
 <marquee><font size="24" color="white">
 
 Welcome To <mark>Shanto</mark>'s Blog
